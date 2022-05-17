@@ -36,7 +36,7 @@ Display all the images with their respective edge detected images.
  
 ## Program:
 
-
+~~~
 # Import the packages
 import cv2
 import numpy as np
@@ -86,6 +86,7 @@ canny_edges = cv2.Canny(gray, 120, 150)
 plt.imshow(canny_edges,cmap='gray')
 plt.title('canny_edges')
 plt.show()
+~~~
 
 ## Output:
 ### SOBEL EDGE DETECTOR
