@@ -36,7 +36,7 @@ Display all the images with their respective edge detected images.
  
 ## Program:
 
-~~~
+~~~python
 # Import the packages
 import cv2
 import numpy as np
