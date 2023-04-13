@@ -91,8 +91,8 @@ plt.show()
 ## Output:
 ### SOBEL EDGE DETECTOR
 
-![Uploading download.png…]()
 
+![1](https://user-images.githubusercontent.com/75235759/231698786-e3d244a7-ace6-479a-b271-9f41b41f0b34.png)
 
 
 ### LAPLACIAN EDGE DETECTOR
